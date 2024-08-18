@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Local News on MediaTrue</title>
-    <link>http://localhost:33507/tags/local-news/</link>
+    <link>http://localhost:40061/tags/local-news/</link>
     <description>Recent content in Local News on MediaTrue</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Aug 2020 12:15:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:33507/tags/local-news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:40061/tags/local-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Downtown Revitalization: Transforming the City&#39;s Core</title>
-      <link>http://localhost:33507/posts/2024/downtown-revitalization-city-core/</link>
+      <link>http://localhost:40061/posts/2024/downtown-revitalization-city-core/</link>
       <pubDate>Fri, 14 Aug 2020 12:15:00 +0000</pubDate>
-      <guid>http://localhost:33507/posts/2024/downtown-revitalization-city-core/</guid>
+      <guid>http://localhost:40061/posts/2024/downtown-revitalization-city-core/</guid>
       <description>The downtown area of the city is undergoing a significant transformation with new urban development projects. This long-read article provides a detailed exploration of these changes and their expected impact on the community.</description>
     </item>
   </channel>

@@ -2,97 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:33507/</loc>
+    <loc>http://localhost:40061/</loc>
     <lastmod>2024-08-19T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/</loc>
+    <loc>http://localhost:40061/posts/</loc>
     <lastmod>2024-08-19T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/categories/</loc>
+    <loc>http://localhost:40061/categories/</loc>
     <lastmod>2024-08-17T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/tags/feature/</loc>
+    <loc>http://localhost:40061/tags/feature/</loc>
     <lastmod>2024-08-17T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/categories/politics/</loc>
+    <loc>http://localhost:40061/categories/politics/</loc>
     <lastmod>2024-08-17T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/tags/</loc>
+    <loc>http://localhost:40061/tags/</loc>
     <lastmod>2024-08-17T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2024/social-media-in-modern-politics/</loc>
+    <loc>http://localhost:40061/posts/2024/social-media-in-modern-politics/</loc>
     <lastmod>2024-08-17T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2024/global-impact-of-populism/</loc>
-    <lastmod>2024-08-17T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:33507/categories/business/</loc>
-    <lastmod>2024-08-17T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:33507/posts/2024/sustainable-business-practices/</loc>
-    <lastmod>2024-08-17T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:33507/posts/2023/emerging-markets-global-economy/</loc>
+    <loc>http://localhost:40061/categories/business/</loc>
     <lastmod>2024-08-16T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2023/downtown-revitalization-city-core/</loc>
+    <loc>http://localhost:40061/posts/2023/emerging-markets-global-economy/</loc>
+    <lastmod>2024-08-16T08:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:40061/posts/2024/global-impact-of-populism/</loc>
+    <lastmod>2024-08-15T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:40061/posts/2023/downtown-revitalization-city-core/</loc>
     <lastmod>2024-08-14T12:15:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/categories/local-news/</loc>
+    <loc>http://localhost:40061/categories/local-news/</loc>
     <lastmod>2024-08-14T12:15:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2023/election-year-policy-proposals/</loc>
+    <loc>http://localhost:40061/posts/2023/election-year-policy-proposals/</loc>
     <lastmod>2024-08-13T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2023/tech-giants-market-dominance/</loc>
+    <loc>http://localhost:40061/posts/2023/tech-giants-market-dominance/</loc>
     <lastmod>2024-08-12T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2022/ai-everyday-life-changing/</loc>
+    <loc>http://localhost:40061/posts/2022/ai-everyday-life-changing/</loc>
     <lastmod>2024-08-11T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/categories/technology/</loc>
+    <loc>http://localhost:40061/categories/technology/</loc>
     <lastmod>2024-08-11T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/categories/health/</loc>
+    <loc>http://localhost:40061/posts/2024/sustainable-business-practices/</loc>
+    <lastmod>2024-08-10T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:40061/categories/health/</loc>
     <lastmod>2024-08-09T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2022/evolution-health-technologies/</loc>
+    <loc>http://localhost:40061/posts/2022/evolution-health-technologies/</loc>
     <lastmod>2024-08-09T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/tags/entrepreneurship/</loc>
+    <loc>http://localhost:40061/tags/entrepreneurship/</loc>
     <lastmod>2023-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/categories/entrepreneurship/</loc>
+    <loc>http://localhost:40061/categories/entrepreneurship/</loc>
     <lastmod>2023-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/tags/people/</loc>
+    <loc>http://localhost:40061/tags/people/</loc>
     <lastmod>2023-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2022/shamar-richards-entrepreneurship-journey/</loc>
+    <loc>http://localhost:40061/posts/2023/shamar-richards-entrepreneurship-journey/</loc>
     <lastmod>2023-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/about/</loc>
+    <loc>http://localhost:40061/about/</loc>
     <lastmod>2023-10-06T20:37:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/tags/health/</loc>
+    <loc>http://localhost:40061/tags/health/</loc>
     <lastmod>2023-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2023/shamar-richards-takes-a-hike/</loc>
+    <loc>http://localhost:40061/posts/2023/shamar-richards-takes-a-hike/</loc>
     <lastmod>2023-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/tags/realty/</loc>
+    <loc>http://localhost:40061/posts/2023/shamar-richards-visionary-behind-mediatrue/</loc>
+    <lastmod>2023-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:40061/tags/realty/</loc>
     <lastmod>2023-06-24T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/categories/realty/</loc>
+    <loc>http://localhost:40061/categories/realty/</loc>
     <lastmod>2023-06-24T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2024/shamar-richards-smart-real-estate-investments/</loc>
+    <loc>http://localhost:40061/posts/2024/shamar-richards-smart-real-estate-investments/</loc>
     <lastmod>2023-06-24T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/posts/2024/downtown-revitalization-city-core/</loc>
+    <loc>http://localhost:40061/posts/2024/downtown-revitalization-city-core/</loc>
     <lastmod>2020-08-14T12:15:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:33507/tags/local-news/</loc>
+    <loc>http://localhost:40061/tags/local-news/</loc>
     <lastmod>2020-08-14T12:15:00+00:00</lastmod>
   </url>
 </urlset>

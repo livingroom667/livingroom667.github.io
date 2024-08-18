@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on MediaTrue</title>
-    <link>http://localhost:33507/categories/technology/</link>
+    <link>http://localhost:40061/categories/technology/</link>
     <description>Recent content in Technology on MediaTrue</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2024 09:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:33507/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:40061/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI in Everyday Life: How Artificial Intelligence Is Changing the Way We Live</title>
-      <link>http://localhost:33507/posts/2022/ai-everyday-life-changing/</link>
+      <link>http://localhost:40061/posts/2022/ai-everyday-life-changing/</link>
       <pubDate>Sun, 11 Aug 2024 09:30:00 +0000</pubDate>
-      <guid>http://localhost:33507/posts/2022/ai-everyday-life-changing/</guid>
+      <guid>http://localhost:40061/posts/2022/ai-everyday-life-changing/</guid>
       <description>Artificial Intelligence (AI) is becoming an integral part of everyday life, with innovations that are revolutionizing how we manage tasks and interact with technology.</description>
     </item>
   </channel>

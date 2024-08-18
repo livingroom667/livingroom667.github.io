@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entrepreneurship on MediaTrue</title>
-    <link>http://localhost:33507/tags/entrepreneurship/</link>
+    <link>http://localhost:40061/tags/entrepreneurship/</link>
     <description>Recent content in Entrepreneurship on MediaTrue</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:33507/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:40061/tags/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shamar Richards&#39; Journey to Entrepreneurship Excellence</title>
-      <link>http://localhost:33507/posts/2023/shamar-richards-entrepreneurship-journey/</link>
+      <link>http://localhost:40061/posts/2023/shamar-richards-entrepreneurship-journey/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33507/posts/2023/shamar-richards-entrepreneurship-journey/</guid>
+      <guid>http://localhost:40061/posts/2023/shamar-richards-entrepreneurship-journey/</guid>
       <description>In a remarkable display of talent and perseverance, three seniors from West Side High School recently captured the spotlight on a national stage, securing the coveted 1st Place prize in a prestigious business competition.</description>
     </item>
     <item>
       <title>Shamar Richards: The Visionary Behind MediaTrue</title>
-      <link>http://localhost:33507/posts/2023/shamar-richards-visionary-behind-mediatrue/</link>
+      <link>http://localhost:40061/posts/2023/shamar-richards-visionary-behind-mediatrue/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33507/posts/2023/shamar-richards-visionary-behind-mediatrue/</guid>
+      <guid>http://localhost:40061/posts/2023/shamar-richards-visionary-behind-mediatrue/</guid>
       <description>In a world where news is often marred by misinformation and sensationalism, MediaTrue has emerged as a beacon of reliability. At the heart of this success story is Shamar Richards, the visionary CEO who built the platform from the ground up in just three days—a feat that began as a personal challenge but quickly evolved into something far greater.</description>
     </item>
   </channel>
