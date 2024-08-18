@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on MediaTrue</title>
+    <link>http://localhost:33507/categories/business/</link>
+    <description>Recent content in Business on MediaTrue</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:33507/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rise of Sustainable Business Practices: How Companies Are Leading the Green Revolution</title>
+      <link>http://localhost:33507/posts/2024/sustainable-business-practices/</link>
+      <pubDate>Sat, 17 Aug 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:33507/posts/2024/sustainable-business-practices/</guid>
+      <description>As environmental concerns become more pressing, businesses worldwide are increasingly adopting sustainable practices. This long-read article delves into how companies are leading the charge in the green revolution, integrating sustainability into their operations, and what it means for the future of business.</description>
+    </item>
+    <item>
+      <title>Navigating the Future: How Emerging Markets Are Shaping the Global Economy</title>
+      <link>http://localhost:33507/posts/2023/emerging-markets-global-economy/</link>
+      <pubDate>Fri, 16 Aug 2024 08:00:00 +0000</pubDate>
+      <guid>http://localhost:33507/posts/2023/emerging-markets-global-economy/</guid>
+      <description>In recent years, emerging markets have increasingly become pivotal players in the global economy. Nations such as India, Brazil, and Vietnam are not only growing rapidly but also reshaping international trade dynamics and financial systems.</description>
+    </item>
+    <item>
+      <title>Tech Giants and Market Dominance: The Future of Business in the Age of Big Tech</title>
+      <link>http://localhost:33507/posts/2023/tech-giants-market-dominance/</link>
+      <pubDate>Mon, 12 Aug 2024 15:00:00 +0000</pubDate>
+      <guid>http://localhost:33507/posts/2023/tech-giants-market-dominance/</guid>
+      <description>The dominance of tech giants is reshaping the business world, influencing everything from market trends to consumer behavior. This comprehensive article explores how major tech companies are driving innovation and navigating challenges in their quest for market dominance.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Politics on MediaTrue</title>
+    <link>http://localhost:33507/categories/politics/</link>
+    <description>Recent content in Politics on MediaTrue</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:33507/categories/politics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of Social Media in Modern Politics: Amplifying Voices or Deepening Divides?</title>
+      <link>http://localhost:33507/posts/2024/social-media-in-modern-politics/</link>
+      <pubDate>Sat, 17 Aug 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:33507/posts/2024/social-media-in-modern-politics/</guid>
+      <description>Social media has become a powerful tool in modern politics, reshaping how politicians communicate, how campaigns are run, and how citizens engage with political discourse.</description>
+    </item>
+    <item>
+      <title>The Global Impact of Populism: How Populist Leaders Are Reshaping Politics</title>
+      <link>http://localhost:33507/posts/2024/global-impact-of-populism/</link>
+      <pubDate>Sat, 17 Aug 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:33507/posts/2024/global-impact-of-populism/</guid>
+      <description>Populism has surged across the globe, with populist leaders gaining power in several countries. This article delves into the rise of populism, its impact on political landscapes, and the challenges it presents to traditional governance and international relations.</description>
+    </item>
+    <item>
+      <title>Election Year Shifts: Analyzing Key Policy Proposals and Their Potential Impact</title>
+      <link>http://localhost:33507/posts/2023/election-year-policy-proposals/</link>
+      <pubDate>Tue, 13 Aug 2024 11:00:00 +0000</pubDate>
+      <guid>http://localhost:33507/posts/2023/election-year-policy-proposals/</guid>
+      <description>As the election year unfolds, candidates are presenting their policy proposals, each with significant implications for the nation. This extensive article provides a deep dive into these proposals and their potential effects.</description>
+    </item>
+  </channel>
+</rss>

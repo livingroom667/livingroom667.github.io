@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on MediaTrue</title>
+    <link>http://localhost:33507/categories/health/</link>
+    <description>Recent content in Health on MediaTrue</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Aug 2024 13:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:33507/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Evolution of Health Technologies: Innovations Transforming Personal Care</title>
+      <link>http://localhost:33507/posts/2022/evolution-health-technologies/</link>
+      <pubDate>Fri, 09 Aug 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:33507/posts/2022/evolution-health-technologies/</guid>
+      <description>Health technology is rapidly evolving, bringing new tools and innovations that are transforming how individuals manage their health and wellness. This comprehensive article explores the latest advancements in health technology and their impact on personal care.</description>
+    </item>
+    <item>
+      <title>Shamar Richards Takes a Hike!</title>
+      <link>http://localhost:33507/posts/2023/shamar-richards-takes-a-hike/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:33507/posts/2023/shamar-richards-takes-a-hike/</guid>
+      <description>In the midst of a busy life filled with school, entrepreneurship, and community commitments, Shamar Richards decided to step away from it all and reconnect with nature.</description>
+    </item>
+  </channel>
+</rss>

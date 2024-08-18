@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>City Planning on mediatrue</title>
+    <link>http://localhost:33469/tags/city-planning/</link>
+    <description>Recent content in City Planning on mediatrue</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Aug 2020 12:15:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:33469/tags/city-planning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Downtown Revitalization: Transforming the City&#39;s Core</title>
+      <link>http://localhost:33469/posts/2024/downtown-revitalization-city-core/</link>
+      <pubDate>Fri, 14 Aug 2020 12:15:00 +0000</pubDate>
+      <guid>http://localhost:33469/posts/2024/downtown-revitalization-city-core/</guid>
+      <description>Downtown Revitalization: Transforming the City&amp;rsquo;s Core The downtown area of the city is undergoing a significant transformation with new urban development projects.</description>
+    </item>
+  </channel>
+</rss>

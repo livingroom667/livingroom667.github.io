@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Realty on MediaTrue</title>
+    <link>http://localhost:33507/categories/realty/</link>
+    <description>Recent content in Realty on MediaTrue</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2023 11:15:17 +0700</lastBuildDate>
+    <atom:link href="http://localhost:33507/categories/realty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shamar Richards Teaches Us About Smart Real Estate Investments</title>
+      <link>http://localhost:33507/posts/2024/shamar-richards-smart-real-estate-investments/</link>
+      <pubDate>Sat, 24 Jun 2023 11:15:17 +0700</pubDate>
+      <guid>http://localhost:33507/posts/2024/shamar-richards-smart-real-estate-investments/</guid>
+      <description>In the ever-fluctuating world of real estate, savvy investors know that timing is everything. When property values dip, especially in cities that are less popular but strategically located near major urban centers, an opportunity arises.</description>
+    </item>
+  </channel>
+</rss>
