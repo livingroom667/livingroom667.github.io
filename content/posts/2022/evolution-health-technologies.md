@@ -3,7 +3,7 @@ title: "The Evolution of Health Technologies: Innovations Transforming Personal 
 date: 2024-08-09T13:00:00+00:00
 slug: /evolution-health-technologies/
 description: Examine how new health technologies are revolutionizing personal care and wellness, from wearable devices to advanced monitoring systems.
-image: https://blogs.deloitte.co.uk/.a/6a01543429fb37970c01bb09676d7b970d-800wi
+image: https://www.hospitaltimes.co.uk/wp-content/uploads/2020/02/CMR-768x419.jpg
 caption: Photo by DeloitteS
 categories:
   - Health
