@@ -3,7 +3,7 @@ title: "The Rise of Sustainable Business Practices: How Companies Are Leading th
 date: 2024-08-10T10:00:00+00:00
 slug: /sustainable-business-practices/
 description: Explore how companies are adopting sustainable practices to address environmental challenges and drive long-term growth.
-image: https://www.cjpi.com/insights/sustainable-business-practices-going-green-to-boost-profits-and-reputation/
+image: https://www.thegef.org/sites/default/files/styles/main_image_content_width/public/windmill_0.jpg?h=e85f6c07&itok=PPxfC1OM
 caption: Photo by National Geographic
 categories:
   - business
