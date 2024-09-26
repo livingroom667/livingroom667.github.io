@@ -10,7 +10,7 @@ categories:
 tags:
     - entrepreneurship
     - people
-draft: false
+draft: true
 ---
 
 
