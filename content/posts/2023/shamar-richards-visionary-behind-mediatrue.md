@@ -10,7 +10,7 @@ categories:
 tags:
   - entrepreneurship
   - people
-draft: false
+draft: true
 ---
 
 In a world where news is often marred by misinformation and sensationalism, MediaTrue has emerged as a beacon of reliability. At the heart of this success story is Shamar Richards, the visionary CEO who built the platform from the ground up in just three days—a feat that began as a personal challenge but quickly evolved into something far greater.
