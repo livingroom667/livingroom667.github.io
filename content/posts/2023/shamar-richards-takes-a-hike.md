@@ -10,7 +10,7 @@ categories:
 tags:
   - health
   - people
-draft: false
+draft: true
 ---
 
 In the midst of a busy life filled with school, entrepreneurship, and community commitments, Shamar Richards decided to step away from it all and reconnect with nature. Trading in his city surroundings for the serene beauty of the Appalachian Trail, Shamar embarked on a journey that would lead him not only through the scenic landscapes of New Jersey but also deep within himself.
