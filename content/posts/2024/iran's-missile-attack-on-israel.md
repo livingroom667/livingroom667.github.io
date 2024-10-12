@@ -56,5 +56,4 @@ Israeli defense officials echoed similar sentiments, promising retaliation for t
 
 The global community, including the United States and European nations, swiftly condemned Iran’s missile strike. U.S. President Joe Biden reaffirmed American support for Israel, while calling the attack “ineffective.” Other Western leaders, including the UK and France, also expressed solidarity with Israel, emphasizing the need to avoid further escalation.
 
-Iran, meanwhile, has vowed to respond with full force should Israel take further military actions, raising concerns over the potential for broader regional conflict. 
-```
+Iran, meanwhile, has vowed to respond with full force should Israel take further military actions, raising concerns over the potential for broader regional conflict.
