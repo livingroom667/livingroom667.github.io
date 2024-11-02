@@ -4,7 +4,7 @@ date: 2024-10-03T10:00:00+00:00
 slug: /irans-missile-attack-on-israel/
 description: A comprehensive look at Iran's missile strike on Israel, the scale of the attack, damage reports, and the global response.
 image: https://www.algemeiner.com/wp-content/uploads/2020/08/gazarockets.jpg
-caption: Photo of missile interception over Israel
+caption: The Iron Dome aerial defense system fires interception missiles as rockets are launched from Gaza toward Israel, as seen from the city of Ashkelon.
 categories:
   - politics
 tags:
