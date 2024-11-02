@@ -24,8 +24,6 @@ Climate change acts as a "threat multiplier," amplifying existing social inequal
 - **Educational Disruptions**: Financial strain due to climate impacts increases dropout rates among girls. In regions affected by climate change, **60% of school-aged girls** may discontinue education to support their families or due to safety concerns.
 - **Child Marriage**: Poverty triggered by climate change increases the likelihood of child marriage by **50%** in vulnerable regions, as families see early marriage as a means to reduce financial burden and secure their daughters' futures (UNICEF).
 
----
-
 ## Gendered Impacts by Region  
 
 ### 1. Education and Girls’ Rights: Nigeria  
@@ -76,8 +74,6 @@ Droughts and floods in Kenya create scarcity of resources, leading to increased 
 **Violence Prevention Programs**:
 - **Case Study**: In drought-stricken regions, the Coalition on Violence Against Women (COVAW) provides counseling and aid to affected families. Their services have shown a **10% reduction** in reported cases of GBV, highlighting the effectiveness of localized interventions.
 - **Long-Term Solutions**: Ensuring food and water access during climate-related crises is crucial for reducing GBV. Programs that combine resource support with counseling can mitigate the risks of violence in households facing environmental hardships.
-
----
 
 ## Call to Action  
 The link between climate and gender inequality requires immediate attention. Addressing these compounded inequalities calls for international support, policy reforms, and targeted aid for vulnerable populations. Prioritizing gender-responsive climate action will lead to a more just and resilient world for all.
