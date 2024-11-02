@@ -4,7 +4,7 @@ date: 2024-11-01T10:00:00+00:00
 slug: /climate-crisis-gender-inequality
 description: Investigating how climate change disproportionately impacts women and girls, exacerbating pre-existing gender inequalities worldwide.
 image: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8tCZKYBVtFw/v2/-1x-1.jpg
-caption: A displacement camp for people impacted by drought in Baidoa, Somalia, in Sept. 2022.  Photographer: Ed Ram/Getty Images
+caption: A displacement camp for people impacted by drought in Baidoa, Somalia, in Sept. 2022.  Photographer Ed Ram/Getty Images
 categories:
   - climate
   - gender
