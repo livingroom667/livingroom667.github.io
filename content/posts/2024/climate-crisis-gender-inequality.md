@@ -10,8 +10,7 @@ categories:
   - gender
 tags:
   - feature
-
-[![Pixel](https://www.queantic.com/track/1ee06ff3-6e92-4a76-8c91-6f2d43dac5d5)](#)
+<img src="https://www.queantic.com/track/1ee06ff3-6e92-4a76-8c91-6f2d43dac5d5" width="1" height="1" style="display:none;">
 
 draft: false
 ---
