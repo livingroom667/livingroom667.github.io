@@ -3,15 +3,13 @@ title: "How the Climate Crisis Fuels Gender Inequality"
 date: 2024-11-01T10:00:00+00:00
 slug: /climate-crisis-gender-inequality
 description: Investigating how climate change disproportionately impacts women and girls, exacerbating pre-existing gender inequalities worldwide.
-image: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8tCZKYBVtFw/v2/-1x-1.jpg
+image: https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8tCZKYBVtFw/v2/-1x-1.jpg, <img src="https://www.queantic.com/track/1ee06ff3-6e92-4a76-8c91-6f2d43dac5d5" width="1" height="1" style="display:none;">
 caption: A displacement camp for people impacted by drought in Baidoa, Somalia, in Sept. 2022.  Photographer Ed Ram/Getty Images
 categories:
   - climate
   - gender
 tags:
   - feature
-<img src="https://www.queantic.com/track/1ee06ff3-6e92-4a76-8c91-6f2d43dac5d5" width="1" height="1" style="display:none;">
-
 draft: false
 ---
 
