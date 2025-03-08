@@ -11,8 +11,11 @@ categories:
 tags:
   - feature
 
+[![Pixel](https://www.queantic.com/track/1ee06ff3-6e92-4a76-8c91-6f2d43dac5d5)](#)
+
 draft: false
 ---
+
 The climate crisis is not gender-neutral. Women and girls bear a disproportionate burden of its impacts, facing increased risks of violence, educational deprivation, economic insecurity, and health challenges. Below, we delve into region-specific data and case studies, illustrating how climate change exacerbates gender inequalities worldwide.
 
 ## Climate Crisis as a Threat Multiplier  
